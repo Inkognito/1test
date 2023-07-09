@@ -1,6 +1,5 @@
-#include <stdio.h>
-
-public void main ()
-{
-	println("Hello!");
+public class HelloW {
+	public static void main(String[] args) {
+		System.out.println("Hello Github №3");
+	}
 }
